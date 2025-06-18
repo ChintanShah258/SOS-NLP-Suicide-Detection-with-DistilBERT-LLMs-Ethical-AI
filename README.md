@@ -40,9 +40,6 @@ This directory contains all sorts of results, including graphs and some `.jsonl`
 ## [The Best Model](./ModelSummarizer.py)
 Run this script to know which model is the best: `ModelSummarizer.py`.
 
-## [Reference Paper](./Reference%20Paper/)
-This directory includes all the academic papers as an inspirational source of our project.
-
 ## [tests](./tests/)
 This directory contains unit tests, particularly the implementation of data processing codes. 
 
